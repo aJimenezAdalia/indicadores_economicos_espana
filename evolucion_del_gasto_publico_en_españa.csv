@@ -1,0 +1,22 @@
+﻿"Año";"Periodo";"Total gasto público"
+"2012";"Año";"500.177"
+"2013";"Año";"467.326"
+"2014";"Año";"465.650"
+"2015";"Año";"472.962"
+"2016";"Año";"472.733"
+"2017";"Año";"478.669"
+"2018";"Año";"501.497"
+;;
+;;
+"Métrica":"Total gasto público"
+"Fuente":"Ministerio de Hacienda"
+"Clasificación":""
+"Unidad":"En euros"
+"Escala":"Millones"
+"EscalaFactorPotencia10":"6"
+"SonDatosNumericos":"True"
+;;
+;;
+"Url":"https://www.epdata.es/asi-evolucionado-gasto-publico-espana-2012-2017/6a4a36b9-bdd3-49ef-b3f8-68a5a6e24552"
+"Titulo":"Evolución del gasto público en España"
+"Subtitulo":""
